@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mobileotp/static/css/main.91252b4b.css",
+    "main.js": "/mobileotp/static/js/main.6a3492d6.js",
+    "index.html": "/mobileotp/index.html",
+    "main.91252b4b.css.map": "/mobileotp/static/css/main.91252b4b.css.map",
+    "main.6a3492d6.js.map": "/mobileotp/static/js/main.6a3492d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91252b4b.css",
+    "static/js/main.6a3492d6.js"
+  ]
+}
